@@ -1,0 +1,13 @@
+C:\Users\barto\Desktop\C#\Bryly\bin\Debug\netcoreapp3.1\Bryly.exe
+C:\Users\barto\Desktop\C#\Bryly\bin\Debug\netcoreapp3.1\Bryly.deps.json
+C:\Users\barto\Desktop\C#\Bryly\bin\Debug\netcoreapp3.1\Bryly.runtimeconfig.json
+C:\Users\barto\Desktop\C#\Bryly\bin\Debug\netcoreapp3.1\Bryly.runtimeconfig.dev.json
+C:\Users\barto\Desktop\C#\Bryly\bin\Debug\netcoreapp3.1\Bryly.dll
+C:\Users\barto\Desktop\C#\Bryly\bin\Debug\netcoreapp3.1\Bryly.pdb
+C:\Users\barto\Desktop\C#\Bryly\obj\Debug\netcoreapp3.1\Bryly.csprojAssemblyReference.cache
+C:\Users\barto\Desktop\C#\Bryly\obj\Debug\netcoreapp3.1\Bryly.AssemblyInfoInputs.cache
+C:\Users\barto\Desktop\C#\Bryly\obj\Debug\netcoreapp3.1\Bryly.AssemblyInfo.cs
+C:\Users\barto\Desktop\C#\Bryly\obj\Debug\netcoreapp3.1\Bryly.csproj.CoreCompileInputs.cache
+C:\Users\barto\Desktop\C#\Bryly\obj\Debug\netcoreapp3.1\Bryly.dll
+C:\Users\barto\Desktop\C#\Bryly\obj\Debug\netcoreapp3.1\Bryly.pdb
+C:\Users\barto\Desktop\C#\Bryly\obj\Debug\netcoreapp3.1\Bryly.genruntimeconfig.cache
